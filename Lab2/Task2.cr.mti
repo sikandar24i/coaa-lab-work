@@ -1,0 +1,10 @@
+C:/Users/sikan/OneDrive/Desktop/Lab2/Task2_i_Decoder_GLevel.v {1 {vlog -work work -stats=none C:/Users/sikan/OneDrive/Desktop/Lab2/Task2_i_Decoder_GLevel.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module myAND
+-- Compiling module Decoder_GLevel
+-- Compiling module T2_i_testbench
+
+Top level modules:
+	T2_i_testbench
+
+} {} {}}

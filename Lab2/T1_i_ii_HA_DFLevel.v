@@ -1,0 +1,26 @@
+module HalfAdder_dFlow(Sum, Carry, A, B);
+
+input A, B;
+output Sum, Carry;
+
+assign Sum = A ^ B;
+assign Carry = A & B;
+
+endmodule
+
+module T1_i_ii_testbench();
+
+reg A, B;
+wire Sum, Carry;
+
+HalfAdder_dFlow HA(Sum, Carry, A, B);
+
+initial
+begin
+    A = 0; B = 0;
+#10 A = 0; B = 1;
+#10 A = 1; B = 0;
+#10 A = 1; B = 1;
+end
+
+endmodule

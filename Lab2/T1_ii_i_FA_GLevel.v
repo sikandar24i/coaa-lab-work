@@ -1,0 +1,42 @@
+module HalfAdder_GLevel(Sum, Carry, A, B);
+
+input A, B;
+output Sum, Carry;
+
+xor sum(Sum, A, B);
+and carry(Carry, A, B);
+
+endmodule
+
+module FullAdder_GLevel(Sum, Carry, A, B, Cin);
+
+input A, B, Cin;
+output Sum, Carry;
+wire s1, c1, c2;
+
+HalfAdder_GLevel ha1(s1, c1, A, B);
+HalfAdder_GLevel ha2(Sum, c2, s1, Cin);
+or carry(Carry, c1, c2);
+
+endmodule
+
+module T1_ii_i_testbench();
+
+reg A, B, Cin;
+wire Sum, Carry;
+
+FullAdder_GLevel FA(Sum, Carry, A, B, Cin);
+
+initial
+begin
+    A = 0; B = 0; Cin = 0;
+#10 A = 0; B = 0; Cin = 1;
+#10 A = 0; B = 1; Cin = 0;
+#10 A = 0; B = 1; Cin = 1;
+#10 A = 1; B = 0; Cin = 0;
+#10 A = 1; B = 0; Cin = 1;
+#10 A = 1; B = 1; Cin = 0;
+#10 A = 1; B = 1; Cin = 1;
+end
+
+endmodule
