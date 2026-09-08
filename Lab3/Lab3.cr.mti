@@ -1,0 +1,17 @@
+C:/Users/sikan/OneDrive/Desktop/Lab3/task1_Adder_Subtractor.v {0 {vlog -work work -stats=none C:/Users/sikan/OneDrive/Desktop/Lab3/task1_Adder_Subtractor.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Adder_Subtractor
+** Error: C:/Users/sikan/OneDrive/Desktop/Lab3/task1_Adder_Subtractor.v(14): (vlog-2730) Undefined variable: 'ende'.
+** Error: (vlog-13069) C:/Users/sikan/OneDrive/Desktop/Lab3/task1_Adder_Subtractor.v(16): near "endmodule": syntax error, unexpected endmodule.
+** Error: C:/Users/sikan/OneDrive/Desktop/Lab3/task1_Adder_Subtractor.v(20): Port mode is incompatible with declaration: I0
+** Error: C:/Users/sikan/OneDrive/Desktop/Lab3/task1_Adder_Subtractor.v(20): Declarations not allowed in unnamed block.
+** Error: C:/Users/sikan/OneDrive/Desktop/Lab3/task1_Adder_Subtractor.v(21): Port mode is incompatible with declaration: I1
+** Error: C:/Users/sikan/OneDrive/Desktop/Lab3/task1_Adder_Subtractor.v(21): Declarations not allowed in unnamed block.
+** Error: C:/Users/sikan/OneDrive/Desktop/Lab3/task1_Adder_Subtractor.v(22): Declarations not allowed in unnamed block.
+** Error: C:/Users/sikan/OneDrive/Desktop/Lab3/task1_Adder_Subtractor.v(23): Illegal declaration after the statement near line '18'.  Declarations must precede statements.  Look for stray semicolons.
+** Error: C:/Users/sikan/OneDrive/Desktop/Lab3/task1_Adder_Subtractor.v(25): (vlog-2730) Undefined variable: 'op'.
+** Error: C:/Users/sikan/OneDrive/Desktop/Lab3/task1_Adder_Subtractor.v(25): Checker 'Adder_Subtractor' not found.  Instantiation 'myAddSub' must be of a visible checker.
+** Error: (vlog-13069) C:/Users/sikan/OneDrive/Desktop/Lab3/task1_Adder_Subtractor.v(27): near "initial": syntax error, unexpected initial.
+** Error: C:/Users/sikan/OneDrive/Desktop/Lab3/task1_Adder_Subtractor.v(25): A begin/end block was found with an empty body.  This is permitted in SystemVerilog, but not permitted in Verilog.  Please look for any stray semicolons.
+
+} {4.0 16.0} {}}

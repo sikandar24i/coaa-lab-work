@@ -1,0 +1,141 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+v_2to1Mux
+Z0 !s110 1788888056
+!i10b 1
+!s100 aHfSknH2`RORW5_O^JfFT2
+I:DRUK`z:S5?9SDCmB7X:=1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/sikan/OneDrive/Desktop/Lab3
+Z3 w1788886994
+Z4 8C:/Users/sikan/OneDrive/Desktop/Lab3/task2_mux.v
+Z5 FC:/Users/sikan/OneDrive/Desktop/Lab3/task2_mux.v
+L0 1
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1788888056.000000
+Z8 !s107 C:/Users/sikan/OneDrive/Desktop/Lab3/task2_mux.v|
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/sikan/OneDrive/Desktop/Lab3/task2_mux.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+n@_2to1@mux
+vAdder_Subtractor
+Z12 !s110 1788886861
+!i10b 1
+!s100 ^6M]9g<n5XcV4;`56PnIS2
+I`S=nXL@9HK@=@Da68POaa2
+R1
+R2
+Z13 w1788886104
+Z14 8C:/Users/sikan/OneDrive/Desktop/Lab3/task1_Adder_Subtractor.v
+Z15 FC:/Users/sikan/OneDrive/Desktop/Lab3/task1_Adder_Subtractor.v
+L0 1
+R6
+r1
+!s85 0
+31
+Z16 !s108 1788886861.000000
+Z17 !s107 C:/Users/sikan/OneDrive/Desktop/Lab3/task1_Adder_Subtractor.v|
+Z18 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/sikan/OneDrive/Desktop/Lab3/task1_Adder_Subtractor.v|
+!i113 1
+R10
+R11
+n@adder_@subtractor
+vcomparator
+Z19 !s110 1788888160
+!i10b 1
+!s100 n8C7czoA]RR9X3lcIz`Fn1
+Ih]L3CRh;h5W[e8LcbL?7g0
+R1
+R2
+Z20 w1788888152
+Z21 8C:/Users/sikan/OneDrive/Desktop/Lab3/task3_comparator.v
+Z22 FC:/Users/sikan/OneDrive/Desktop/Lab3/task3_comparator.v
+L0 1
+R6
+r1
+!s85 0
+31
+Z23 !s108 1788888160.000000
+Z24 !s107 C:/Users/sikan/OneDrive/Desktop/Lab3/task3_comparator.v|
+Z25 !s90 -reportprogress|300|-work|work|C:/Users/sikan/OneDrive/Desktop/Lab3/task3_comparator.v|
+!i113 1
+R10
+R11
+vT1_testbench
+R12
+!i10b 1
+!s100 _@^k_SSLjH6eUMNH=zm@g2
+IbnYDWQMnE;0f`jbOD@fQD0
+R1
+R2
+R13
+R14
+R15
+L0 18
+R6
+r1
+!s85 0
+31
+R16
+R17
+R18
+!i113 1
+R10
+R11
+n@t1_testbench
+vT2_testbench
+R0
+!i10b 1
+!s100 c]>WW6260bK;6`R9ZmzU42
+IZEEFXdD=K5Dk5b:g4moo]2
+R1
+R2
+R3
+R4
+R5
+L0 17
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@t2_testbench
+vT3_testbench
+R19
+!i10b 1
+!s100 Hc9POgA`zZJ`eiE2<:OLI2
+I48>jkWdkllk@jR8h3^FoD1
+R1
+R2
+R20
+R21
+R22
+L0 34
+R6
+r1
+!s85 0
+31
+R23
+R24
+R25
+!i113 1
+R10
+R11
+n@t3_testbench
