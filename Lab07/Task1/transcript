@@ -1,0 +1,51 @@
+# Reading C:/intelFPGA/18.1/modelsim_ase/tcl/vsim/pref.tcl
+# OpenFile {C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task1/task1.v}
+vlib work
+vlog -reportprogress 300 -work work {C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task1/task1.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:35:20 on Oct 13,2026
+# vlog -reportprogress 300 -work work C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task1/task1.v 
+# -- Compiling module myAND
+# -- Compiling module Multiplexer_GLevel
+# -- Compiling module HalfAdder_GLevel
+# -- Compiling module FullAdder_GLevel
+# -- Compiling module ALU_GLevel
+# -- Compiling module _1bitALU_tb
+# 
+# Top level modules:
+# 	_1bitALU_tb
+# End time: 23:35:20 on Oct 13,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vsim work._1bitALU_tb
+# vsim work._1bitALU_tb 
+# Start time: 23:35:30 on Oct 13,2026
+# Loading work._1bitALU_tb
+# Loading work.ALU_GLevel
+# Loading work.FullAdder_GLevel
+# Loading work.HalfAdder_GLevel
+# Loading work.Multiplexer_GLevel
+# Loading work.myAND
+# ** Warning: (vsim-3015) C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task1/task1.v(24): [PCDPC] - Port size (1) does not match connection size (32) for port 'D'. The port definition is at: C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task1/task1.v(3).
+#    Time: 0 ps  Iteration: 0  Instance: /_1bitALU_tb/myALU/mux/A1 File: C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task1/task1.v
+# ** Warning: (vsim-3015) C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task1/task1.v(25): [PCDPC] - Port size (1) does not match connection size (32) for port 'D'. The port definition is at: C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task1/task1.v(3).
+#    Time: 0 ps  Iteration: 0  Instance: /_1bitALU_tb/myALU/mux/A2 File: C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task1/task1.v
+# ** Warning: (vsim-3015) C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task1/task1.v(26): [PCDPC] - Port size (1) does not match connection size (32) for port 'D'. The port definition is at: C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task1/task1.v(3).
+#    Time: 0 ps  Iteration: 0  Instance: /_1bitALU_tb/myALU/mux/A3 File: C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task1/task1.v
+# ** Warning: (vsim-3015) C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task1/task1.v(27): [PCDPC] - Port size (1) does not match connection size (32) for port 'D'. The port definition is at: C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task1/task1.v(3).
+#    Time: 0 ps  Iteration: 0  Instance: /_1bitALU_tb/myALU/mux/A4 File: C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task1/task1.v
+add wave -position insertpoint  \
+sim:/_1bitALU_tb/A \
+sim:/_1bitALU_tb/B \
+sim:/_1bitALU_tb/Cin \
+sim:/_1bitALU_tb/b_inv \
+sim:/_1bitALU_tb/S0 \
+sim:/_1bitALU_tb/S1 \
+sim:/_1bitALU_tb/O \
+sim:/_1bitALU_tb/Cout
+run
+run
+run
+run
+quit -sim
+# End time: 23:36:58 on Oct 13,2026, Elapsed time: 0:01:28
+# Errors: 0, Warnings: 4

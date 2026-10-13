@@ -1,0 +1,142 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+v_1bitALU_tb
+Z0 !s110 1791891653
+!i10b 1
+!s100 T3m<@Z]CV0mCIDF;bzH`e1
+I;:MEm5LlC2;QPT1LBVoF^3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07
+Z3 w1791891621
+Z4 8C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/task1.v
+Z5 FC:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/task1.v
+L0 91
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1791891653.000000
+Z8 !s107 C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/task1.v|
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/task1.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+n@_1bit@a@l@u_tb
+vALU_GLevel
+R0
+!i10b 1
+!s100 E^VZHRjaj3Fn3DCDQagid0
+IlXUI08V2L0Fe[L`Xc2VQP3
+R1
+R2
+R3
+R4
+R5
+L0 59
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@a@l@u_@g@level
+vFullAdder_GLevel
+R0
+!i10b 1
+!s100 S5z8MPl@OUbQkoPglDPEF0
+Ik;^3RJZ`Mo_7[>MXMJG6a1
+R1
+R2
+R3
+R4
+R5
+L0 46
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@full@adder_@g@level
+vHalfAdder_GLevel
+R0
+!i10b 1
+!s100 3dP3LmedD[;cAVGN<FR<U0
+IHNV<_jkiSA2[jk@QV62;H1
+R1
+R2
+R3
+R4
+R5
+L0 36
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@half@adder_@g@level
+vMultiplexer_GLevel
+R0
+!i10b 1
+!s100 N469YKU=Ka4g^Pc_GkTzh1
+IcDX81zeAz1Y`Xc>Fb;B[`1
+R1
+R2
+R3
+R4
+R5
+L0 13
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@multiplexer_@g@level
+vmyAND
+R0
+!i10b 1
+!s100 X<lAJ]?PnLJGGkcPSQYmJ2
+Im5=aT:VAf1XgD^:Oi;0fK3
+R1
+R2
+R3
+R4
+R5
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+nmy@a@n@d

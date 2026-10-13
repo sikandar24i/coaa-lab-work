@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task3
+vALU_4bit_tb
+Z1 !s110 1791916734
+!i10b 1
+!s100 a0HJ65`]@b[;;S_<I?n9Y3
+ILjHzQmBLE?4V]mhP>zYAC2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1791896149
+Z4 8C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task3/Task3.v
+Z5 FC:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task3/Task3.v
+L0 34
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1791916734.000000
+Z8 !s107 C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task3/Task3.v|
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task3/Task3.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+n@a@l@u_4bit_tb
+vParameterized_ALU
+R1
+!i10b 1
+!s100 SnWSSKEO>zG@MX:hoa84A3
+I27fMY2>7c<beEZaPVkzeh1
+R2
+R0
+R3
+R4
+R5
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@parameterized_@a@l@u

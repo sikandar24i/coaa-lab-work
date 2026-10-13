@@ -1,0 +1,164 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task2
+vALU_1bit_GLevel
+Z1 !s110 1791895289
+!i10b 1
+!s100 B0CE3H:<^WUM^bXlZAcDf0
+I6OEXFNm2m_az:7?<=YBk?0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1791894434
+Z4 8C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task2/task2.v
+Z5 FC:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task2/task2.v
+L0 51
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1791895289.000000
+Z8 !s107 C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task2/task2.v|
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task2/task2.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+n@a@l@u_1bit_@g@level
+vALU_4bit_GLevel
+R1
+!i10b 1
+!s100 gJOOL6l8JK5m]63O=PXRb0
+IoNG`?B<QR8EA;MQzmE_>j1
+R2
+R0
+R3
+R4
+R5
+L0 74
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@a@l@u_4bit_@g@level
+vALU_4bit_tb
+R1
+!i10b 1
+!s100 Il2HB`0D6gOmTVEPL<hVM2
+IgD3l[hCGR[@SQLo0_hLO<2
+R2
+R0
+R3
+R4
+R5
+L0 104
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@a@l@u_4bit_tb
+vFullAdder_GLevel
+R1
+!i10b 1
+!s100 8ob]b;okAbVmC?cL7UM@E3
+IZm6d;kMdkG4l_<T_9Tgdj0
+R2
+R0
+R3
+R4
+R5
+L0 40
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@full@adder_@g@level
+vHalfAdder_GLevel
+R1
+!i10b 1
+!s100 ;Gn`ol7Jc`2zhaM]@QllW0
+I[:SmP>53b7bgja1TT=Uzg1
+R2
+R0
+R3
+R4
+R5
+L0 32
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@half@adder_@g@level
+vMultiplexer_GLevel
+R1
+!i10b 1
+!s100 ZUA7`4W5B_GalJTAiiK@B0
+InaG>X0>Am=E5diZ`VcC8o2
+R2
+R0
+R3
+R4
+R5
+L0 11
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@multiplexer_@g@level
+vmyAND
+R1
+!i10b 1
+!s100 _`V@;HOH8]glV3aMFaPUQ1
+IL7E`@]Lh[IjZ2cSSF28QY2
+R2
+R0
+R3
+R4
+R5
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+nmy@a@n@d

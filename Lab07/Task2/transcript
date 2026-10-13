@@ -1,0 +1,50 @@
+# Reading C:/intelFPGA/18.1/modelsim_ase/tcl/vsim/pref.tcl
+# OpenFile {C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task2/task2.v}
+vsim work.ALU_4bit_tb
+# vsim work.ALU_4bit_tb 
+# Start time: 23:37:55 on Oct 13,2026
+# Loading work.ALU_4bit_tb
+# Loading work.ALU_4bit_GLevel
+# Loading work.ALU_1bit_GLevel
+# Loading work.FullAdder_GLevel
+# Loading work.HalfAdder_GLevel
+# Loading work.Multiplexer_GLevel
+# Loading work.myAND
+# ** Warning: (vsim-3015) C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task2/task2.v(21): [PCDPC] - Port size (1) does not match connection size (32) for port 'D'. The port definition is at: C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task2/task2.v(3).
+#    Time: 0 ps  Iteration: 0  Instance: /ALU_4bit_tb/myALU4/alu0/mux/A1 File: C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task2/task2.v
+# ** Warning: (vsim-3015) C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task2/task2.v(22): [PCDPC] - Port size (1) does not match connection size (32) for port 'D'. The port definition is at: C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task2/task2.v(3).
+#    Time: 0 ps  Iteration: 0  Instance: /ALU_4bit_tb/myALU4/alu0/mux/A2 File: C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task2/task2.v
+# ** Warning: (vsim-3015) C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task2/task2.v(23): [PCDPC] - Port size (1) does not match connection size (32) for port 'D'. The port definition is at: C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task2/task2.v(3).
+#    Time: 0 ps  Iteration: 0  Instance: /ALU_4bit_tb/myALU4/alu0/mux/A3 File: C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task2/task2.v
+# ** Warning: (vsim-3015) C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task2/task2.v(24): [PCDPC] - Port size (1) does not match connection size (32) for port 'D'. The port definition is at: C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task2/task2.v(3).
+#    Time: 0 ps  Iteration: 0  Instance: /ALU_4bit_tb/myALU4/alu0/mux/A4 File: C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task2/task2.v
+# ** Warning: (vsim-3015) C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task2/task2.v(21): [PCDPC] - Port size (1) does not match connection size (32) for port 'D'. The port definition is at: C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task2/task2.v(3).
+#    Time: 0 ps  Iteration: 0  Instance: /ALU_4bit_tb/myALU4/alu1/mux/A1 File: C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task2/task2.v
+# ** Warning: (vsim-3015) C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task2/task2.v(22): [PCDPC] - Port size (1) does not match connection size (32) for port 'D'. The port definition is at: C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task2/task2.v(3).
+#    Time: 0 ps  Iteration: 0  Instance: /ALU_4bit_tb/myALU4/alu1/mux/A2 File: C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task2/task2.v
+# ** Warning: (vsim-3015) C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task2/task2.v(23): [PCDPC] - Port size (1) does not match connection size (32) for port 'D'. The port definition is at: C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task2/task2.v(3).
+#    Time: 0 ps  Iteration: 0  Instance: /ALU_4bit_tb/myALU4/alu1/mux/A3 File: C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task2/task2.v
+# ** Warning: (vsim-3015) C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task2/task2.v(24): [PCDPC] - Port size (1) does not match connection size (32) for port 'D'. The port definition is at: C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task2/task2.v(3).
+#    Time: 0 ps  Iteration: 0  Instance: /ALU_4bit_tb/myALU4/alu1/mux/A4 File: C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task2/task2.v
+# ** Warning: (vsim-3015) C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task2/task2.v(21): [PCDPC] - Port size (1) does not match connection size (32) for port 'D'. The port definition is at: C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task2/task2.v(3).
+#    Time: 0 ps  Iteration: 0  Instance: /ALU_4bit_tb/myALU4/alu2/mux/A1 File: C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task2/task2.v
+# ** Warning: (vsim-3015) C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task2/task2.v(22): [PCDPC] - Port size (1) does not match connection size (32) for port 'D'. The port definition is at: C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task2/task2.v(3).
+#    Time: 0 ps  Iteration: 0  Instance: /ALU_4bit_tb/myALU4/alu2/mux/A2 File: C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task2/task2.v
+# ** Warning: (vsim-3015) C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task2/task2.v(23): [PCDPC] - Port size (1) does not match connection size (32) for port 'D'. The port definition is at: C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task2/task2.v(3).
+#    Time: 0 ps  Iteration: 0  Instance: /ALU_4bit_tb/myALU4/alu2/mux/A3 File: C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task2/task2.v
+# ** Warning: (vsim-3015) C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task2/task2.v(24): [PCDPC] - Port size (1) does not match connection size (32) for port 'D'. The port definition is at: C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task2/task2.v(3).
+#    Time: 0 ps  Iteration: 0  Instance: /ALU_4bit_tb/myALU4/alu2/mux/A4 File: C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task2/task2.v
+# ** Warning: (vsim-3015) C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task2/task2.v(21): [PCDPC] - Port size (1) does not match connection size (32) for port 'D'. The port definition is at: C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task2/task2.v(3).
+#    Time: 0 ps  Iteration: 0  Instance: /ALU_4bit_tb/myALU4/alu3/mux/A1 File: C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task2/task2.v
+# ** Warning: (vsim-3015) C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task2/task2.v(22): [PCDPC] - Port size (1) does not match connection size (32) for port 'D'. The port definition is at: C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task2/task2.v(3).
+#    Time: 0 ps  Iteration: 0  Instance: /ALU_4bit_tb/myALU4/alu3/mux/A2 File: C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task2/task2.v
+# ** Warning: (vsim-3015) C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task2/task2.v(23): [PCDPC] - Port size (1) does not match connection size (32) for port 'D'. The port definition is at: C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task2/task2.v(3).
+#    Time: 0 ps  Iteration: 0  Instance: /ALU_4bit_tb/myALU4/alu3/mux/A3 File: C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task2/task2.v
+# ** Warning: (vsim-3015) C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task2/task2.v(24): [PCDPC] - Port size (1) does not match connection size (32) for port 'D'. The port definition is at: C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task2/task2.v(3).
+#    Time: 0 ps  Iteration: 0  Instance: /ALU_4bit_tb/myALU4/alu3/mux/A4 File: C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task2/task2.v
+add wave -position insertpoint sim:/ALU_4bit_tb/*
+run
+run
+run
+# End time: 23:38:32 on Oct 13,2026, Elapsed time: 0:00:37
+# Errors: 0, Warnings: 16

@@ -1,0 +1,38 @@
+# Reading C:/intelFPGA/18.1/modelsim_ase/tcl/vsim/pref.tcl
+# OpenFile {C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task4/Task4.v}
+vlib work
+vlog -reportprogress 300 -work work {C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task4/Task4.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:40:09 on Oct 13,2026
+# vlog -reportprogress 300 -work work C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab07/Task4/Task4.v 
+# -- Compiling module alu_32bit
+# -- Compiling module ALU_32bit_tb
+# 
+# Top level modules:
+# 	ALU_32bit_tb
+# End time: 23:40:09 on Oct 13,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vsim work.ALU_32bit_tb
+# vsim work.ALU_32bit_tb 
+# Start time: 23:40:14 on Oct 13,2026
+# Loading work.ALU_32bit_tb
+# Loading work.alu_32bit
+add wave -position insertpoint  \
+sim:/ALU_32bit_tb/A \
+sim:/ALU_32bit_tb/B \
+sim:/ALU_32bit_tb/alu_op \
+sim:/ALU_32bit_tb/O \
+sim:/ALU_32bit_tb/zero
+add wave -position insertpoint  \
+sim:/ALU_32bit_tb/A \
+sim:/ALU_32bit_tb/B \
+sim:/ALU_32bit_tb/alu_op \
+sim:/ALU_32bit_tb/O \
+sim:/ALU_32bit_tb/zero
+# can't read "vsimPriv(.main_pane.wave.interior.cs.body.pw.wf:current_tree)": no such element in array
+run
+run
+run
+run
+# End time: 23:40:59 on Oct 13,2026, Elapsed time: 0:00:45
+# Errors: 1, Warnings: 0
