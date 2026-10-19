@@ -1,0 +1,80 @@
+# Reading C:/intelFPGA/18.1/modelsim_ase/tcl/vsim/pref.tcl
+# OpenFile {C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab08/task4.v}
+vlog -reportprogress 300 -work work {C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab08/task4.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:34:56 on Oct 19,2026
+# vlog -reportprogress 300 -work work C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab08/task4.v 
+# -- Compiling module rv32_pc_im_integrated
+# ** Error: C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab08/task4.v(9): (vlog-2110) Illegal reference to net "pc_out".
+# ** Error: C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab08/task4.v(11): (vlog-2110) Illegal reference to net "pc_out".
+# -- Compiling module tb_rv32_pc_im_integrated
+# End time: 21:34:56 on Oct 19,2026, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 0
+vlog -reportprogress 300 -work work {C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab08/task4.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:36:06 on Oct 19,2026
+# vlog -reportprogress 300 -work work C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab08/task4.v 
+# -- Compiling module rv32_pc_im_integrated
+# ** Error: C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab08/task4.v(9): (vlog-2110) Illegal reference to net "pc_out".
+# ** Error: C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab08/task4.v(11): (vlog-2110) Illegal reference to net "pc_out".
+# -- Compiling module tb_rv32_pc_im_integrated
+# End time: 21:36:06 on Oct 19,2026, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 0
+vlog -reportprogress 300 -work work {C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab08/task4.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:37:37 on Oct 19,2026
+# vlog -reportprogress 300 -work work C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab08/task4.v 
+# -- Compiling module rv32_pc_im_integrated
+# -- Compiling module tb_rv32_pc_im_integrated
+# 
+# Top level modules:
+# 	tb_rv32_pc_im_integrated
+# End time: 21:37:37 on Oct 19,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vsim work.tb_pc_rv32_4bit
+# vsim work.tb_pc_rv32_4bit 
+# Start time: 21:37:47 on Oct 19,2026
+# ** Error: (vsim-3170) Could not find 'tb_pc_rv32_4bit'.
+#         Searched libraries:
+#             C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab08/work
+# Error loading design
+# End time: 21:37:48 on Oct 19,2026, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 0
+vlog -reportprogress 300 -work work {C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab08/task4.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:37:57 on Oct 19,2026
+# vlog -reportprogress 300 -work work C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab08/task4.v 
+# -- Compiling module rv32_pc_im_integrated
+# -- Compiling module tb_rv32_pc_im_integrated
+# 
+# Top level modules:
+# 	tb_rv32_pc_im_integrated
+# End time: 21:37:57 on Oct 19,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work {C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab08/task4.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:37:59 on Oct 19,2026
+# vlog -reportprogress 300 -work work C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab08/task4.v 
+# -- Compiling module rv32_pc_im_integrated
+# -- Compiling module tb_rv32_pc_im_integrated
+# 
+# Top level modules:
+# 	tb_rv32_pc_im_integrated
+# End time: 21:37:59 on Oct 19,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vsim work.tb_rv32_pc_im_integrated
+# vsim work.tb_rv32_pc_im_integrated 
+# Start time: 21:38:04 on Oct 19,2026
+# Loading work.tb_rv32_pc_im_integrated
+# Loading work.rv32_pc_im_integrated
+add wave -position insertpoint  \
+sim:/tb_rv32_pc_im_integrated/clk \
+sim:/tb_rv32_pc_im_integrated/reset \
+sim:/tb_rv32_pc_im_integrated/pc_out \
+sim:/tb_rv32_pc_im_integrated/instruction
+run
+run
+run
+run
+# End time: 21:42:29 on Oct 19,2026, Elapsed time: 0:04:25
+# Errors: 0, Warnings: 0
