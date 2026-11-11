@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+vdata_memory
+Z0 !s110 1794392717
+!i10b 1
+!s100 cKJPCD1MaBMM2>PKL08853
+I9g^D:haEa]E=l7gi9=4a31
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/lab.KHSRPC1-10/Desktop/OEL
+w1794392035
+8C:/Users/lab.KHSRPC1-10/Desktop/OEL/data_memory.v
+FC:/Users/lab.KHSRPC1-10/Desktop/OEL/data_memory.v
+L0 6
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1794392717.000000
+!s107 C:/Users/lab.KHSRPC1-10/Desktop/OEL/data_memory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/lab.KHSRPC1-10/Desktop/OEL/data_memory.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vtb_data_memory
+R0
+!i10b 1
+!s100 Ma0b:IiSYzfL7WJ1iP1fO0
+ImGXTG2`of0O1iU^16?97E3
+R1
+R2
+w1794392315
+8C:/Users/lab.KHSRPC1-10/Desktop/OEL/tb_data_memory.v
+FC:/Users/lab.KHSRPC1-10/Desktop/OEL/tb_data_memory.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/lab.KHSRPC1-10/Desktop/OEL/tb_data_memory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/lab.KHSRPC1-10/Desktop/OEL/tb_data_memory.v|
+!i113 1
+R5
+R6
