@@ -1,0 +1,9 @@
+C:/Users/lab.KHSRPC1-10/Desktop/sik/task1.v {1 {vlog -work work -stats=none C:/Users/lab.KHSRPC1-10/Desktop/sik/task1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module StateMachine
+-- Compiling module StateMachine_tb
+
+Top level modules:
+	StateMachine_tb
+
+} {} {}}

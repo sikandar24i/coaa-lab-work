@@ -1,0 +1,96 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+vcontrol_unit
+Z0 !s110 1795440129
+!i10b 1
+!s100 4f`H9SS>B<56KO4cXVbVJ3
+Ihj<0K[NTLRJ9JVQ7:]ZQg1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab12
+Z3 w1795439946
+Z4 8C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab12/task2.v
+Z5 FC:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab12/task2.v
+L0 1
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1795440129.000000
+Z8 !s107 C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab12/task2.v|
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab12/task2.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vcontrol_unit_tb
+R0
+!i10b 1
+!s100 jCR5eEDW[CD:dDP:Y>5lh0
+I]`J0hdh;zoVbb?aG`@RO20
+R1
+R2
+R3
+R4
+R5
+L0 156
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vStateMachine
+R0
+!i10b 1
+!s100 fC`J_Bd2cIE[FMl0gU1j30
+I^KV_VgnJ<La<KmC49nJDg1
+R1
+R2
+Z12 w1794950640
+Z13 8C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab12/task1.v
+Z14 FC:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab12/task1.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+Z15 !s107 C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab12/task1.v|
+Z16 !s90 -reportprogress|300|-work|work|C:/Users/sikan/OneDrive - FAST National University/Documents/Study/Semester 5/Computer Org. & Arch/Lab/Lab12/task1.v|
+!i113 1
+R10
+R11
+n@state@machine
+vStateMachine_tb
+R0
+!i10b 1
+!s100 N<9@PAYKgUfNN?ADQ6QhI1
+I4`:6BkcXXZ1FZc=J6:YdS0
+R1
+R2
+R12
+R13
+R14
+L0 65
+R6
+r1
+!s85 0
+31
+R7
+R15
+R16
+!i113 1
+R10
+R11
+n@state@machine_tb
